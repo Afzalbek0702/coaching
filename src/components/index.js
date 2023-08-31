@@ -1,0 +1,17 @@
+export { default as Navbar } from "./Navbar";
+export { default as Nav } from "./Nav";
+export { default as Hero } from "./Hero";
+export { default as Heroui } from "./Heroui";
+export { default as Comments } from "./Comments";
+export { default as Introduction } from "./Introduction";
+export { default as Blog } from "./Blog";
+export { default as Freeguide } from "./Freeguide";
+export { default as Booking } from "./Booking";
+export { default as Footer } from "./Footer";
+export { default as Serviceintro } from "./Serviceintro";
+export { default as Features } from "./Features";
+export { default as Result } from './Result'
+export { default as Social } from "./Social";
+export { default as Faq } from "./Faq";
+export { default as Test } from "./Test";
+export { default as Guarante } from "./Guarante";
